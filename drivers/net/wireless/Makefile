@@ -2,7 +2,7 @@
 #
 # Makefile for the Linux Wireless network device drivers.
 #
-obj-$(CONFIG_WLAN_VENDOR_RTL8189ES) += rtl8189ES/
+obj-$(CONFIG_WLAN_VENDOR_RTL8189ES) += rtl8189es/
 obj-$(CONFIG_WLAN_VENDOR_ADMTEK) += admtek/
 obj-$(CONFIG_WLAN_VENDOR_ATH) += ath/
 obj-$(CONFIG_WLAN_VENDOR_ATMEL) += atmel/
